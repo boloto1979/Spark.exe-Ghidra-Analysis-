@@ -1,0 +1,1 @@
+This repository contains information and resources related to analyzing the Spark.exe malware using the Ghidra reverse engineering tool. The objective of this project is to understand the functionality and behavior of this malware, as well as to contribute to knowledge and awareness in the area of ​​information security.
